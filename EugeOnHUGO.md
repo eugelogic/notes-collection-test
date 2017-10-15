@@ -1,7 +1,7 @@
 # Eugene on HUGO <a name="top"></a>
 20171013
 
-last updated on 20171014
+last updated on 20171015
 
 ---
 ##### CONTENT:
@@ -15,6 +15,7 @@ last updated on 20171014
 - [Galleries](#galleries)
 - [Glossary](#glossary)
 - [Go](#go)
+- [Ideas](#ideas)
 - [Landing Pages](#landing-pages)
 - [Questions](#questions)
 - [Shortcodes](#shortcodes)
@@ -38,7 +39,9 @@ last updated on 20171014
 
 ---
 ##### To Do
-- [ ] build a business landing page with Atlas https://github.com/indigotree/atlas
+- [ ] Finish setup of https://github.com/eugelogic/ristretto
+- [ ] See the Ideas section below
+- [ ] ...
 
 ---
 ## <a name="anatomy"></a>Anatomy <a style="font-size:small;" href="#top">Back to top</a>
@@ -95,6 +98,12 @@ The `layout` folder contains all the `html` layouts we are going to use.
 The `theme.toml` is basically the config file about of theme.
 
 ---
+## <a name="boilerplates"></a>Boilerplates <a - style="font-size:small;" href="#top">Back to top</a>
+A boilerplate is like a starter theme, here are a few good one to start off with.
+- Atlas https://github.com/indigotree/atlas
+- Victor Hugo https://github.com/netlify/victor-hugo
+
+---
 ## <a name="commands"></a>Commands <a style="font-size:small;" href="#top">Back to top</a>
 - create new website `$ hugo new site [name of the site]`
 - "compile" the site and starts the server `$ hugo server`. If you stop the server in your command line (<kbd>CTRL</kbd>+<kbd>C</kbd>), you won't be able to see the website in your browser anymore :wink:
@@ -109,6 +118,19 @@ https://gohugo.io/functions/
 ---
 ## <a name="glossary"></a>Glossary <a style="font-size:small;" href="#top">Back to top</a>
 - Front Matter is metadata, data about data, it allows you to keep metadata attached to an instance of a content type. https://gohugo.io/content-management/front-matter/
+- ...
+
+---
+## <a name="ideas"></a>Ideas <a style="font-size:small;" href="#top">Back to top</a>
+Build websites for the following:
+- business landing page with Atlas
+- photo gallery website (benches, ...)
+- HLCCHL
+- delParc
+- Pickles & Eat
+- Andrea Almacolle
+- Bottegone di Cividale
+- Ricette della nonna
 - ...
 
 ---
