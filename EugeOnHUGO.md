@@ -24,6 +24,7 @@ last updated on 20171015
 - [Themes](#themes)
 - [Variables](#variables)
 - [Videos](#videos)
+- [Workflows](#workflows)
 - [tba](#tba)
 
 ---
@@ -60,7 +61,7 @@ site-name
 ```
 https://gohugo.io/getting-started/directory-structure/
 
-The `default.md` file inside the `archetypes` folder contains pieces of content that are common to all the content of the website!? I allows you to define metadata about your content.
+The `default.md` file inside the `archetypes` folder contains pieces of content that are common to all the content of the website!? It allows you to define metadata about your content.
 
 The `config.toml` file is the main settings file of your website.
 
@@ -105,8 +106,8 @@ A boilerplate is like a starter theme, here are a few good one to start off with
 
 ---
 ## <a name="commands"></a>Commands <a style="font-size:small;" href="#top">Back to top</a>
-- create new website `$ hugo new site [name of the site]`
-- "compile" the site and starts the server `$ hugo server`. If you stop the server in your command line (<kbd>CTRL</kbd>+<kbd>C</kbd>), you won't be able to see the website in your browser anymore :wink:
+- `$ hugo new site [name of the site]` create new website.
+- `$ hugo server` "compile" the site and starts the server . If you stop the server in your command line (<kbd>CTRL</kbd>+<kbd>C</kbd>), you won't be able to see the website in your browser anymore :wink:
 - `$ hugo server -D`, same as the `hugo server` but it also makes sure it renders the draft pages
 - ...
 
@@ -197,6 +198,17 @@ https://youtu.be/L34JL_3Jkyc
 - #12 List Page Templates | Hugo - Static Site Generator https://youtu.be/8b2YTSMdMps
 - #13 Single Page Templates | Hugo - Static Site Generator https://youtu.be/ZYQ5k0RQzmo
 - #14 Home Page Templates | Hugo - Static Site Generator https://youtu.be/ut1xtRZ1QOA
+- #15 Section Templates | Hugo - Static Site Generator https://youtu.be/jrMClsB3VsY
+- ...
+
+---
+## <a name="workflows"></a>Workflows <a style="font-size:small;" href="#top">Back to top</a>
+
+- Create a new website
+  - within the command line, navigate to a folder where you want the new website to live (ideally it should live within the "HUGO" folder, but it can be placed anywhere)
+  - run  `$ hugo new site [name of the site]`
+- Add a Homepage Template
+  - add `index.html` file inside the top level `layouts` folder.
 - ...
 
 ---
