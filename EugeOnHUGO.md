@@ -18,6 +18,7 @@ last updated on 20171015
 - [Ideas](#ideas)
 - [Landing Pages](#landing-pages)
 - [Questions](#questions)
+- [Netlify](#netlify) - Turn this into its own document !
 - [Shortcodes](#shortcodes)
 - [Taxonomies](#taxonomies)
 - [Templates](#templates)
@@ -99,7 +100,7 @@ The `layout` folder contains all the `html` layouts we are going to use.
 The `theme.toml` is basically the config file about of theme.
 
 ---
-## <a name="boilerplates"></a>Boilerplates <a - style="font-size:small;" href="#top">Back to top</a>
+## <a name="boilerplates"></a>Boilerplates <a style="font-size:small;" href="#top">Back to top</a>
 A boilerplate is like a starter theme, here are a few good one to start off with.
 - Atlas https://github.com/indigotree/atlas
 - Victor Hugo https://github.com/netlify/victor-hugo
@@ -126,6 +127,7 @@ https://gohugo.io/functions/
 Build websites for the following:
 - business landing page with Atlas
 - photo gallery website (benches, ...)
+- web links repository
 - HLCCHL
 - delParc
 - Pickles & Eat
@@ -138,6 +140,13 @@ Build websites for the following:
 ## <a name="questions"></a>Questions <a style="font-size:small;" href="#top">Back to top</a>
 - What's YAML?
 - What's TOML?
+- ...
+
+---
+## <a name="netlify"></a>Netlify <a style="font-size:small;" href="#top">Back to top</a>
+Turn this into its own document !
+
+- Authentication Providers https://www.netlify.com/docs/authentication-providers/
 - ...
 
 ---
