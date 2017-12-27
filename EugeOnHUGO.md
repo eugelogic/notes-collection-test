@@ -181,6 +181,10 @@ Once you decided on what theme to use, you need to edit the `config.toml` file b
 theme = "name_of_the_theme"
 ```
 
+### Cool Ones
+
+- Academic https://github.com/gcushen/hugo-academic
+
 ---
 ## <a name="variables"></a>Variables <a style="font-size:small;" href="#top">Back to top</a>
 https://gohugo.io/variables/
@@ -220,9 +224,15 @@ https://youtu.be/L34JL_3Jkyc
   - add `index.html` file inside the top level `layouts` folder.
 - ...
 
+- Get started with a new installation of Atlas (https://github.com/indigotree/atlas) on netlify/github/local
+  - Click deploy the to Netlify button, then follow instructions (build commands are filled out automatically for you)
+  - Clone down the repo Netlify created for you automatically on your github account with `git clone`
+  - `cd` into the site you cloned, then run `npm install && npm run server`
+
 ---
 ## <a name="tba"></a>tba <a style="font-size:small;" href="#top">Back to top</a>
-...
+
+- go to http://localhost:3000/ to visit your site locally
 
 ---
 
