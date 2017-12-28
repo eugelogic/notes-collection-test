@@ -223,6 +223,8 @@ https://youtu.be/L34JL_3Jkyc
 - Add a Homepage Template
   - add `index.html` file inside the top level `layouts` folder.
 - ...
+- Edit the `title = "{TITLE}"` accordingly in the `config.toml` file
+- ...
 
 - Get started with a new installation of Atlas (https://github.com/indigotree/atlas) on netlify/github/local
   - Click deploy the to Netlify button, then follow instructions (build commands are filled out automatically for you)
@@ -233,6 +235,8 @@ https://youtu.be/L34JL_3Jkyc
 ## <a name="tba"></a>tba <a style="font-size:small;" href="#top">Back to top</a>
 
 - go to http://localhost:3000/ to visit your site locally
+- Atlas (https://github.com/indigotree/atlas) is not a theme but a site framework. It gives you sass/js stuff mostly, if you want to use a theme, then just use hugo without atlas. Atlas compares to these https://gohugo.io/tools/starter-kits/
+
 
 ---
 
