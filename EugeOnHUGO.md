@@ -1,7 +1,7 @@
 # Eugene on HUGO <a name="top"></a>
 20171013
 
-last updated on 20171015
+last updated on 20171228
 
 ---
 ##### CONTENT:
@@ -12,7 +12,7 @@ last updated on 20171015
 - [Commands](#commands)
 - [Documentation](#documentation)
 - [Functions](#functions)
-- [Galleries](#galleries)
+- [Galleries] - not sure what this is for :thinking_face
 - [Glossary](#glossary)
 - [Go](#go)
 - [Ideas](#ideas)
