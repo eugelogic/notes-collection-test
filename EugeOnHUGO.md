@@ -26,6 +26,7 @@ last updated on 20171228
 - [Variables](#variables)
 - [Videos](#videos)
 - [Workflows](#workflows)
+- [admin](#admin)
 - [tba](#tba)
 
 ---
@@ -184,6 +185,7 @@ theme = "name_of_the_theme"
 ### Cool Ones
 
 - Academic https://github.com/gcushen/hugo-academic
+- Giraffe Academy - Hugo Theme https://github.com/giraffeacademy/ga-hugo-theme
 
 ---
 ## <a name="variables"></a>Variables <a style="font-size:small;" href="#top">Back to top</a>
@@ -237,6 +239,10 @@ https://youtu.be/L34JL_3Jkyc
 - go to http://localhost:3000/ to visit your site locally
 - Atlas (https://github.com/indigotree/atlas) is not a theme but a site framework. It gives you sass/js stuff mostly, if you want to use a theme, then just use hugo without atlas. Atlas compares to these https://gohugo.io/tools/starter-kits/
 
+---
+## <a name="admin"></a>admin <a style="font-size:small;" href="#top">Back to top</a>
+
+- You can find this file on GitHub https://github.com/eugelogic/notes-collection-test
 
 ---
 
