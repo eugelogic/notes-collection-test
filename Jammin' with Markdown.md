@@ -76,12 +76,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" /></a>
 - Academic Writing in Markdown
  https://youtu.be/6A5EpqqDOdk
 
-[![Academic Writing in Markdown](http://img.youtube.com/vi/6A5EpqqDOdk/0.jpg)](http://www.youtube.com/watch?v=6A5EpqqDOdk)
-
-- Jammin' with Markdown — David Wells
-  https://youtu.be/LcgPRe7rLT4
-
-<a href="https://youtu.be/LcgPRe7rLT4" ><img src="http://img.youtube.com/vi/LcgPRe7rLT4/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" /></a>
+ [![Academic Writing in Markdown](http://img.youtube.com/vi/6A5EpqqDOdk/0.jpg)](http://www.youtube.com/watch?v=6A5EpqqDOdk)
 
 ---
 
