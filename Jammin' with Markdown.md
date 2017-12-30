@@ -1,7 +1,7 @@
-# Eugene on Markdown <a name="top"></a>
-20171013
+# Jammin' with Markdown <a name="top"></a>
+20171229
 
-last updated on 20171014
+last updated on 20171229
 
 ---
 Content:
@@ -19,9 +19,7 @@ Content:
 
 ---
 ## <a name="sticky-notes"></a>Sticky Notes
-- Markdown is a lightweight markup language with plain text formatting syntax. It is designed so that <span style="background-color: #FFFF00">it can be converted to HTML</span> and many other formats using a tool by the same name.
-- Writing with Markdown for Better Content & HTML: Why & How To - http://swanseaseo.blogspot.co.uk/2017/08/writing-with-markdown-for-better.html
-- View Markdown in action while in Atom with <kbd>CTRL</kbd> <kbd>SHIFT</kbd> <kbd>M</kbd>
+Eugene's notes from the Jammin' with Markdown YouTube video ...
 
 ---
 ##### Cheatsheets

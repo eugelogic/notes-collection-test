@@ -232,6 +232,7 @@ https://youtu.be/L34JL_3Jkyc
   - Click deploy the to Netlify button, then follow instructions (build commands are filled out automatically for you)
   - Clone down the repo Netlify created for you automatically on your github account with `git clone`
   - `cd` into the site you cloned, then run `npm install && npm run server`
+  - in order to create a Homepage Template, run `touch index.html` inside the top level `layouts` folder, then copy the contents from /layouts/_default/single.html
 
 ---
 ## <a name="tba"></a>tba <a style="font-size:small;" href="#top">Back to top</a>

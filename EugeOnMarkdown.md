@@ -86,6 +86,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" /></a>
 ---
 
 ## <a name="tba"></a>tba <a style="font-size:small;" href="#top">Back to top</a>
+- Use http://prose.io/ to edit your GitHub markdown files on mobile.
 ...
 
 ---
