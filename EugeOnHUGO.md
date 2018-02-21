@@ -1,13 +1,14 @@
 # Eugene on HUGO <a name="top"></a>
 20171013
 
-last updated on 20171228
+last updated on 20171230
 
 ---
 ##### CONTENT:
 - [Sticky Notes](#sticky-notes)
   - To Do
 - [Anatomy](#anatomy)
+- [Atlas](#atlas)
 - [Boilerplates](#boilerplates)
 - [Commands](#commands)
 - [Documentation](#documentation)
@@ -101,6 +102,17 @@ The `layout` folder contains all the `html` layouts we are going to use.
 The `theme.toml` is basically the config file about of theme.
 
 ---
+## <a name="atlas"></a>Atlas <a style="font-size:small;" href="#top">Back to top</a>
+- Atlas (https://github.com/indigotree/atlas) is not a theme but a site framework. There is no themes folder, because you have no theme (same for config.toml). It gives you sass/js stuff mostly, if you want to use a theme, then just use Hugo without atlas. Atlas compares to these https://gohugo.io/tools/starter-kits/
+- Atlas is just Hugo with Gulp, SASS & Netlify deployment configuration already done for you.
+- Atlas automatically prefixes stuff with `-webkit-` `-moz-` etc if needed
+- Get started with a new installation of Atlas (https://github.com/indigotree/atlas) on netlify/github/local
+  - Click deploy the to Netlify button, then follow instructions (build commands are filled out automatically for you)
+  - Clone down the repo Netlify created for you automatically on your github account with `git clone`
+  - `cd` into the site you cloned, then run `npm install && npm run server`
+  - in order to create a Homepage Template, run `touch index.html` inside the top level `layouts` folder, then copy the contents from /layouts/_default/single.html
+
+---
 ## <a name="boilerplates"></a>Boilerplates <a style="font-size:small;" href="#top">Back to top</a>
 A boilerplate is like a starter theme, here are a few good one to start off with.
 - Atlas https://github.com/indigotree/atlas
@@ -111,6 +123,7 @@ A boilerplate is like a starter theme, here are a few good one to start off with
 - `$ hugo new site [name of the site]` create new website.
 - `$ hugo server` "compile" the site and starts the server . If you stop the server in your command line (<kbd>CTRL</kbd>+<kbd>C</kbd>), you won't be able to see the website in your browser anymore :wink:
 - `$ hugo server -D`, same as the `hugo server` but it also makes sure it renders the draft pages
+- `$ hugo server --ignoreCache` to run hugo with no cache
 - ...
 
 ---
@@ -228,17 +241,12 @@ https://youtu.be/L34JL_3Jkyc
 - Edit the `title = "{TITLE}"` accordingly in the `config.toml` file
 - ...
 
-- Get started with a new installation of Atlas (https://github.com/indigotree/atlas) on netlify/github/local
-  - Click deploy the to Netlify button, then follow instructions (build commands are filled out automatically for you)
-  - Clone down the repo Netlify created for you automatically on your github account with `git clone`
-  - `cd` into the site you cloned, then run `npm install && npm run server`
-  - in order to create a Homepage Template, run `touch index.html` inside the top level `layouts` folder, then copy the contents from /layouts/_default/single.html
-
 ---
 ## <a name="tba"></a>tba <a style="font-size:small;" href="#top">Back to top</a>
 
 - go to http://localhost:3000/ to visit your site locally
-- Atlas (https://github.com/indigotree/atlas) is not a theme but a site framework. It gives you sass/js stuff mostly, if you want to use a theme, then just use hugo without atlas. Atlas compares to these https://gohugo.io/tools/starter-kits/
+- the "node_modules" folder is dynamically created when you run `npm install` !?
+- the "public" folder is automatically created bu Hugo at built stage !?
 
 ---
 ## <a name="admin"></a>admin <a style="font-size:small;" href="#top">Back to top</a>
